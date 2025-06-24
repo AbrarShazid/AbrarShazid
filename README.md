@@ -1,3 +1,6 @@
+![Abrar Shazid Banner](Assets/Banner.jpg)
+
+
 ## Hi there 👋
 
 <!--
